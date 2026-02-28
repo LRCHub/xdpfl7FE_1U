@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "BABY I'M BACK",
+  "base_artist": "The Kid LAROI",
+  "createdAt": "2026-02-28T07:01:25.455836Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Akon & Baby Bash",
+      "has_synced": false,
+      "path": "select/01_Baby,_I'm_Back_Akon_&_Baby_Bash.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/02_Baby,_I'm_Back_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/03_Baby_I'm_Back_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Baby Bash feat. Akon",
+      "has_synced": true,
+      "path": "select/04_Baby,_I'm_Back_Baby_Bash_feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Baby Bash (Ft. Akon)",
+      "has_synced": true,
+      "path": "select/05_Baby_I'm_Back_Baby_Bash_(Ft._Akon).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Akon",
+      "has_synced": true,
+      "path": "select/06_Baby_I'm_Back_Akon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/07_Baby,_I'm_Back_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Baby Bash;Akon",
+      "has_synced": false,
+      "path": "select/08_Baby,_I'm_Back_Baby_Bash;Akon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby, I'm Back Baby",
+      "artist": "Akon",
+      "has_synced": true,
+      "path": "select/09_Baby,_I'm_Back_Baby_Akon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Akon",
+      "has_synced": true,
+      "path": "select/10_Baby_I'm_Back_Akon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby I’m Back",
+      "artist": "Baby Bash feat. Akon",
+      "has_synced": true,
+      "path": "select/11_Baby_I’m_Back_Baby_Bash_feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/12_Baby,_I'm_Back_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby, I'm Back (feat. Akon)",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/13_Baby,_I'm_Back_(feat._Akon)_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/14_Baby_I'm_Back_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby, I'm Back (Album Version)",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/15_Baby,_I'm_Back_(Album_Version)_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby, I'm Back (feat. Akon)",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/16_Baby,_I'm_Back_(feat._Akon)_Baby_Bash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby I'm Back",
+      "artist": "Baby Bash Featuring Akon",
+      "has_synced": true,
+      "path": "select/17_Baby_I'm_Back_Baby_Bash_Featuring_Akon.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby, I'm Back",
+      "artist": "Goodbye June",
+      "has_synced": true,
+      "path": "select/18_Baby,_I'm_Back_Goodbye_June.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Baby, I'm Back [Feat. Akon]",
+      "artist": "Baby Bash",
+      "has_synced": true,
+      "path": "select/19_Baby,_I'm_Back_[Feat._Akon]_Baby_Bash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BABY I'M BACK",
+      "artist": "The Kid LAROI",
+      "has_synced": false,
+      "path": "select/pl_01_BABY_I'M_BACK_The_Kid_LAROI.txt"
+    }
+  ]
+}
